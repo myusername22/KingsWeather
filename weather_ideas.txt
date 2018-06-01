@@ -1,0 +1,38 @@
+Weather Ideas
+
+Types of Weather
+	Temperature
+		Hot
+		Cold
+		Warm
+  Cloud types
+		Cumulous
+	Natural Disasters
+		Forest Fires
+		Tornados
+		Tsunamis
+		Earthquakes
+		Wind
+		Monsoons
+
+Seasons:
+  Fall
+    Cool weather
+    Changing leaves
+    Increased rain
+  Winter
+    Rain
+    Snow
+    Sleet
+    Cold
+    Hail
+  Spring
+		Warm weather
+		Faster crop growth
+		Sunny
+		Cloudy
+		Windy
+  Summer
+		Hot days
+		More water for plants
+		
